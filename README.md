@@ -1,5 +1,5 @@
 # PhisherMensFriend
-PhisherMensFriend - Phishing for professionals
+PhisherMensFriend - Phishingkit for professionals
 
 private & not open
 
